@@ -35,7 +35,7 @@ Se escribe el código para intercalar los datos de cada diccionario.
 
 ---
 
-Este es resultado al intercalar los datos solicitados (sólo pedimos los nombres, ignorando los números).
+Este es el resultado al intercalar los datos solicitados (sólo pedimos los nombres, ignorando los números).
 
 [![resultado](./screenshots/resultado.png)]()
 
@@ -46,7 +46,7 @@ Este es resultado al intercalar los datos solicitados (sólo pedimos los nombres
 - Interposer
 
 ## Recursos
-- Banderas redondeadas - [countryflags.com](https://www.countryflags.com/)
 - Fotos del código - [carbon.now.sh](https://carbon.now.sh/)
+- Banderas redondeadas - [countryflags.com](https://www.countryflags.com/)
+- Banderas cuadradas - [twemoji.maxcdn.com](https://twemoji.maxcdn.com/)
 - Datos usados para el ejemplo - [github.com/goto-bus-stop/recanalyst](https://github.com/goto-bus-stop/recanalyst/)
-- Banderas - [twemoji.maxcdn.com](https://twemoji.maxcdn.com/)
